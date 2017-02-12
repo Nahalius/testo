@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2
 {
-    class Program544
+    class DaysSinceB
     {
         static void Main6(string[] args)
         {
