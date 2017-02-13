@@ -1,1 +1,3 @@
-# Start novo 3 i po novo
+# These are problems and solutions during my SoftUni educational cources
+#!!!
+
