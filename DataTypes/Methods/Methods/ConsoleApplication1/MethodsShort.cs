@@ -10,20 +10,29 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            var number = 5;
+            string text = "some text"; //String.Format("Hello {0}",text) - for display
             InputData();
-            OutputData();
+            OutputData(number); //With number
+            IfStatement();
         }
-
 
         static void InputData()
         {
+
             Console.ReadLine();
         }
-        static void OutputData()
+        static void OutputData(int number)
         {
-            Console.WriteLine();
+            Console.WriteLine(number);
             
         }
+        static void IfStatement()
+        {
+            
+         
+        }
+
 
     }
 }
